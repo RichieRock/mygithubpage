@@ -4,10 +4,10 @@ Front End Engineer at [ZEF] with experience in JS, TS, Angular, enyojs, HTML, CS
 
 ## Own projects
 
-Info screen (under construction, only weather part done)
-[kallio.website]
+### Info screen 
+(under construction, only weather part done) [kallio.website]
 
-[Here's a printscreen design-1.png](https://raw.githubusercontent.com/RichieRock/mygithubpage/master/infoscreen.JPG),
+![Printscreen](/infoscreen.JPG?raw=true "Printscreen")
 
 Features:
 * Current weather in given city
